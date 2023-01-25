@@ -15,7 +15,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com base num evento da RocketSet (nlw) com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/) Backend
 - [React](https://reactjs.org) web
